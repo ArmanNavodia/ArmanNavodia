@@ -2,7 +2,7 @@
     alt="coding" width="900" height="350" />
 <h1 align="center">Hi 👋, I'm Arman Navodia</h1>
 <p align="center" display="block"><img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Site+Relaibity+Engineer"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Site+Reliability+Engineer"
         </p>
 <h3 align="center"></h3>
 
@@ -13,7 +13,7 @@
         src="https://komarev.com/ghpvc/?username=ArmanNavodia&label=Profile%20views&color=0e75b6&style=flat"
         alt="ArmanNavodia" /> </p>
 
-- 🌱 I’m working as **Site Relaibilty Engineer**
+- 🌱 I’m working as **Site Reliability Engineer**
 
 - 💬 I would love to talk about **Devops tools**
 
