@@ -2,7 +2,7 @@
     alt="coding" width="900" height="350" />
 <h1 align="center">Hi 👋, I'm Arman Navodia</h1>
 <p align="center" display="block"><img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Android+Developer"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Site+Relaibity+Engineer"
         </p>
 <h3 align="center"></h3>
 
@@ -13,9 +13,9 @@
         src="https://komarev.com/ghpvc/?username=ArmanNavodia&label=Profile%20views&color=0e75b6&style=flat"
         alt="ArmanNavodia" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m working as **Site Relaibilty Engineer**
 
-- 💬 I would love to talk about **open source.**
+- 💬 I would love to talk about **Devops tools**
 
 - 📫 How to reach me **armannavodia2002@gmail.com**
 
