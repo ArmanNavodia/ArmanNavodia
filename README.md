@@ -71,6 +71,19 @@
 - 🔁 Modular infrastructure and workload separation  
 
 ---
+### CostOptimizer
+> A serverless AWS solution to automatically clean up idle resources and schedule EC2 start‑stop actions for cost optimization.
+- 🔗 **GitHub:** [CostOptimizer](https://github.com/ArmanNavodia/CostOptimizer)
+
+**🚀 Features**
+- Idle resource cleaner: detects and optionally deletes:
+- Unattached EBS volumes
+- Orphaned EC2 snapshots (with configurable age threshold)
+- Idle Elastic IP addresses
+- Auto Start/Stop scheduler: start or stop EC2 and RDS resources based on tags (AutoSchedule=true, Env=Dev) at specified times.
+- Fully deployed via Terraform, including IAM roles/policies, Lambda functions and EventBridge rules.
+
+---
 
 ### ⚡ EZDeploy
 
